@@ -1,0 +1,17 @@
+h1{
+  color: yellow;
+  font-size: 20px;
+  font-family: lobster;
+}
+body{
+  background-color: grey;
+}
+.car{
+  width: 500px;
+  float: right;
+
+}
+.personal{
+  width: 335px;
+  float: right;
+}
